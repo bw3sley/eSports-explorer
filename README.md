@@ -1,4 +1,4 @@
-# devFinance
+# eSports-Explorer
 
 <a href="https://github.com/bw3sley/eSports-explorer/blob/main/LICENSE.md">
     <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"/>
